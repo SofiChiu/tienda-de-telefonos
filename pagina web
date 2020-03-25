@@ -1,0 +1,23 @@
+<Html>
+<Head>
+	<Title>Mi primer pagina web</Title>
+</Head>
+<Body>
+	<h1>tienda de telefonos </h1>
+	<b>motorola</b> 
+	<p>Gracias a su procesador Qualcomm® Snapdragon™ de ocho núcleos y 665 GHz, el moto g8 plus destaca por su gran velocidad. Y ahora viene con 4 GB de memoria RAM DDR4</p>
+	<img src="C:\Users\sofia\Downloads\progra casa (1)\progra casa\catalogo\catalogo\catalogo\imagenes\motorola.jpg" alt="Smiley face" height="500" width="500"> 
+	<br></br>
+	<b>xiaomi</b> 
+	<p>Snapdragon™ 855, un procesador increíblemente rápido.Juegos un 20% más rápidos, rendimiento de la CPU un 45% mejorado e IA un 300% también más rápida.El mayor salto de Qualcomm® Snapdragon™ en su historia.</p>
+	<img src="C:\Users\sofia\Downloads\progra casa (1)\progra casa\catalogo\catalogo\catalogo\imagenes\xiaomi.jpg" alt="Smiley face" height="500" width="500"> 
+	<br></br>
+	<b>sansung</b> 
+	<p>El Galaxy S10 tiene una pantalla QHD+ Dynamic AMOLED de 6.1 pulgadas, y está potenciado por el nuevo procesador Exynos 9820 de ocho núcleos o bien un Snapdragon 855, con 8GB de RAM y 128GB o 512GB de almacenamiento..</p>
+	<img src="C:\Users\sofia\Downloads\progra casa (1)\progra casa\catalogo\catalogo\catalogo\imagenes\sansung.jpg" alt="Smiley face" height="500" width="500"> 
+		<br></br>
+	<b>iPhone</b> 
+	<p>Apple iPhone 11. El Apple iPhone 11 es el sucesor del iPhone Xr para el 2019. Este año el iPhone 11 llega con una pantalla de 6.1 pulgadas con resolución Liquid Retina y potenciado por un procesador Apple A13 Bionic con 64GB, 128GB o 256GB de almacenamiento interno</p>
+	<img src="C:\Users\sofia\Downloads\progra casa (1)\progra casa\catalogo\catalogo\catalogo\imagenes\iphone.jpg" alt="Smiley face" height="500" width="500"> 
+</Body>
+</Html>
